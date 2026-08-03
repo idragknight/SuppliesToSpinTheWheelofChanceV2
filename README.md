@@ -27,7 +27,7 @@ A comparison between the **original** script and the **V2** upgrade. V2 is a dro
 - In V2, the script **cycles** through every non‑maxed reward, farming each until maxed, then moving to the next.
 
 ### 2. Merge Shop Integration
-- V2 automatically buys items from **Swindle's Ripoff Emporium** (Shop ID: 1951) when:
+- V2 automatically buys items from **Swindle's Ripoff Emporium** when:
   - You have **1000 Unidentified 10**.
   - The selected merge item is not already maxed.
 - Supported items: Tainted Gem, Dark Crystal Shard, Gem of Nulgath, Blood Gem of the Archfiend, Totem of Nulgath, Receipt of Swindle.
