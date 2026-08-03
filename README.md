@@ -92,7 +92,7 @@ This ensures you use your resources efficiently without wasting gold or material
 
 ## ⚠️ Disclaimer
 
-**Use at your own risk.** Automation may violate the Terms of Service of the game you are using this with. This script is provided for **educational and informational purposes only**. The author is not responsible for any account actions taken by the game's publisher, including but not limited to warnings, suspensions, or bans. By using this script, you accept full responsibility for your actions.
+**Use at your own risk.** Botting may violate the Terms of Service of AdventureQuest Worlds (AQW). This script is provided for **educational and informational purposes only**. The author is not responsible for any account actions taken by Artix Entertainment, including but not limited to warnings, suspensions, or bans. By using this script, you accept full responsibility for your actions.
 
 ---
 
