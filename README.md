@@ -16,9 +16,6 @@ A comparison between the **original** script and the **V2** upgrade. V2 is a dro
 | **Voucher Item Quest** | ✅ Available – `VoucherItemQuestDuring` option. | ✅ Same – uses non‑member vouchers for Totem/Gem conversion. |
 | **The Assistant Quest** | ✅ Available – `AssistantDuring` option. | ✅ Same – runs concurrently when enabled. |
 | **UltraAlteon Target** | ✅ Available – `UltraAlteon` option. | ✅ Same – switches to Ultra Chaos Alteon. |
-| **Shop Navigation** | ✅ Joins map and loads shop. | ✅ Same – improves reliability with explicit navigation. |
-| **Error Handling** | ⚠️ Basic – stops on errors. | ✅ Improved – graceful fallbacks and clear logging. |
-| **Code Quality** | ⚠️ Some unused methods. | ✅ Cleaner – removed redundancies, better structure. |
 | **Configuration File** | Uses `SuppliesOptions.json`. | Uses `SuppliesOptionsV2.json` – separate from original, no conflicts. |
 
 ---
